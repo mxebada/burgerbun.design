@@ -34,10 +34,10 @@
   line-height: 47px;
   list-style: none;
 }
-.menu-content li a {
+.menu-content ul li a {
   text-decoration: none;
 }
-.menu-content li a:hover {
+.menu-content ul li a:hover {
   color: #fa9508;
   -webkit-transition: 1s;
   -o-transition: 1s;
